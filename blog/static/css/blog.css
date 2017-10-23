@@ -1,0 +1,14 @@
+/*
+  USER_DEFINED STYLING
+*/
+#heading{
+  background-image: url("blog.jpg");
+  text-align: center;
+  height: 300px;
+}
+
+#H{
+  color: white;
+  font-family: 'Bebas Neue';
+  font-size: :300px;
+}
