@@ -1,14 +1,17 @@
 /*
   USER_DEFINED STYLING
 */
-#heading{
+/*#heading{
   background-image: url("blog.jpg");
   text-align: center;
   height: 300px;
 }
-
+*/
+h1{
+  font-family: 'Lobster';
+}
 #H{
-  color: white;
-  font-family: 'Bebas Neue';
+  color: black;
+  font-family: 'Lobster';
   font-size: :300px;
 }

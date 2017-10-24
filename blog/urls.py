@@ -5,5 +5,6 @@ urlpatterns = [
     # /blog/
     url(r'^$', views.index , name='index'),
     # /blog/345/
-    url(r'^(?P<post_id>[0-9]+)/$', views.detail, name='detail'),
+    url(r'^(?P<pk>[0-9]+)/$', views.detail, name='detail'),
+    url(r'^addnew/$', views.addnew , name='addnew'), 
 ]
